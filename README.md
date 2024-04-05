@@ -36,6 +36,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
+A brief write-up explaining design choices, challenges faced, and integration of the AI language model API for the Enchanted Storyteller.
+
+
+
 Design Choices:
 I wanted the Enchanted Storyteller to feel like stepping into a magical realm, so I chose gentle colors and fantastical images to create a captivating atmosphere. The form where users input their preferences is easy to use, like filling out a friendly questionnaire. When the story appears, it's like unwrapping a gift, with beautiful fonts and pictures that match the fantasy setting you picked.
 
