@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Design Choices:
+I wanted the Enchanted Storyteller to feel like stepping into a magical realm, so I chose gentle colors and fantastical images to create a captivating atmosphere. The form where users input their preferences is easy to use, like filling out a friendly questionnaire. When the story appears, it's like unwrapping a gift, with beautiful fonts and pictures that match the fantasy setting you picked.
+
+Challenges Faced:
+Getting the AI to work smoothly was tricky. It was like teaching a new spell – I had to make sure the application and the AI could talk to each other correctly. Making everything look good on phones and computers of all shapes and sizes was also a puzzle, but I worked hard to make sure everything ran smoothly for everyone.
+
+Integration of AI Language Model API:
+Using the AI was a bit like having a magical assistant. I followed the instructions carefully, setting up the application to work together with the AI. I made sure it knew what to do if something went wrong, and I added special tricks to keep it running smoothly. Overall, the AI added a touch of magic to the Enchanted Storyteller, making each story feel like a special journey just for you.
+
